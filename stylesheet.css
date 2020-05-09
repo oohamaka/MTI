@@ -1,0 +1,124 @@
+body{
+    width:90%;
+    margin: 0 auto;
+    padding: 20px 0 0 20px;
+}
+
+.mti-logo{
+    width: 185px;
+    height: 24.5px;
+    padding-left: 220px;
+}
+.header-right{
+    margin-top: -10px;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+}
+
+.header-right div{
+    padding-right: 20px;
+}
+
+.lang-select{
+    padding: 0 15px 0 15px;
+    margin: 0 15px 0 15px;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+.news-box{
+    text-align: center;
+}
+
+.news-photo{
+    padding: 5px 0 15px 0;
+}
+
+.news{
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 130px;
+}
+
+.news ul{
+    list-style: none;
+    display: flex;
+    padding-left: 140px;
+    text-align: center;
+}
+
+.news li{
+    margin-left : 40px;
+}
+
+.news-date{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ir-tag{
+    margin-right: 70px;
+    border-bottom: 1px solid green;
+    font-size: 12px;
+}
+
+.news-tag{
+    border-bottom: 1px solid green;
+    font-size: 12px;
+}
+
+.news-detail{
+    font-size: 13px;
+}
+
+.news p{
+    color: green;
+    margin: 40px;
+    border-bottom: 1px solid rgb(221,221,221);
+    padding-bottom: 40px;
+}
+
+h1{
+    font-weight: 100;
+    text-align: center;
+}
+
+.focus-category{
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 0 40px 0;
+}
+
+.pickup-box{
+    display: flex;
+    margin: 100px;
+}
+
+.pickup-box1{
+    padding-left: 20px;
+    margin-left: 40px;
+}
+
+.carada-box{
+    width: 250px;
+    margin:0 auto;
+    font-size: 15px;
+    border-bottom: 1px solid green;
+}
+
+.comment-box p:not(.date){
+    color : green;
+}
+
+.service-box{
+    text-align: center;
+    background-color: #EEEEEE;
+    padding: 50px 300px 0 300px;
+}
+
+.service-box h1{
+    padding-bottom: 50px;
+}
